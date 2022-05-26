@@ -1,0 +1,21 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+article {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: black;
+}
+footer {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: black;
+    background-color: rgb(170, 170, 170);
+    text-align: center;
+    padding: 40px;
+    margin: 0;
+}
+body {
+    margin: 4px;
+}
