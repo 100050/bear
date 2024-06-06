@@ -1,3 +1,17 @@
 article table tr td{
     font-weight: lighter;
 }
+
+.click {
+    color: #8A99A6;
+}
+
+/* 종별 사진 스타일 */
+section img {
+    margin: 0 10%;
+    margin-bottom: 5%;
+    width: 80%;
+    height: auto;
+    border: 3px solid #5d3628;
+    border-radius: 1%;
+}

@@ -25,6 +25,7 @@ tr a {
     text-align: center;
 }
 
+/* 휴대폰 크기 맞춤 */
 @media screen and (max-width:600px) {
     td, tr {
         font-size: 11px;
